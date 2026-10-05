@@ -1,3 +1,3 @@
 # Bai 2 - Merge Conflict
 
-day la lan sua dau tien 
+day la lan sua dau tien git add README.md
